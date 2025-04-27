@@ -1,0 +1,1 @@
+# O Curso de Aperfeiçoamento Profissional Programação em C# tem por objetivo capacitar profissionais para desenvolver aplicações em linguagem C#, por meio de técnicas de programação, seguindo boas práticas, procedimentos e normas.
