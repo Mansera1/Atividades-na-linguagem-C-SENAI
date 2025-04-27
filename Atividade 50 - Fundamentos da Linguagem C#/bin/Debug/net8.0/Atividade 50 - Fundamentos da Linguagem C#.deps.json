@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Atividade 50 - Fundamentos da Linguagem C#/1.0.0": {
+        "runtime": {
+          "Atividade 50 - Fundamentos da Linguagem C#.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Atividade 50 - Fundamentos da Linguagem C#/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+D:\PROJETOS\Senai\Programa-o-C-\Atividade 50 - Fundamentos da Linguagem C#\bin\Debug\net8.0\Atividade 50 - Fundamentos da Linguagem C#.exe
+D:\PROJETOS\Senai\Programa-o-C-\Atividade 50 - Fundamentos da Linguagem C#\bin\Debug\net8.0\Atividade 50 - Fundamentos da Linguagem C#.deps.json
+D:\PROJETOS\Senai\Programa-o-C-\Atividade 50 - Fundamentos da Linguagem C#\bin\Debug\net8.0\Atividade 50 - Fundamentos da Linguagem C#.runtimeconfig.json
+D:\PROJETOS\Senai\Programa-o-C-\Atividade 50 - Fundamentos da Linguagem C#\bin\Debug\net8.0\Atividade 50 - Fundamentos da Linguagem C#.dll
+D:\PROJETOS\Senai\Programa-o-C-\Atividade 50 - Fundamentos da Linguagem C#\bin\Debug\net8.0\Atividade 50 - Fundamentos da Linguagem C#.pdb
+D:\PROJETOS\Senai\Programa-o-C-\Atividade 50 - Fundamentos da Linguagem C#\obj\Debug\net8.0\Atividade 50 - Fundamentos da Linguagem C#.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJETOS\Senai\Programa-o-C-\Atividade 50 - Fundamentos da Linguagem C#\obj\Debug\net8.0\Atividade 50 - Fundamentos da Linguagem C#.AssemblyInfoInputs.cache
+D:\PROJETOS\Senai\Programa-o-C-\Atividade 50 - Fundamentos da Linguagem C#\obj\Debug\net8.0\Atividade 50 - Fundamentos da Linguagem C#.AssemblyInfo.cs
+D:\PROJETOS\Senai\Programa-o-C-\Atividade 50 - Fundamentos da Linguagem C#\obj\Debug\net8.0\Atividade 50 - Fundamentos da Linguagem C#.csproj.CoreCompileInputs.cache
+D:\PROJETOS\Senai\Programa-o-C-\Atividade 50 - Fundamentos da Linguagem C#\obj\Debug\net8.0\Atividade 50 - Fundamentos da Linguagem C#.sourcelink.json
+D:\PROJETOS\Senai\Programa-o-C-\Atividade 50 - Fundamentos da Linguagem C#\obj\Debug\net8.0\Atividade 50 - Fundamentos da Linguagem C#.dll
+D:\PROJETOS\Senai\Programa-o-C-\Atividade 50 - Fundamentos da Linguagem C#\obj\Debug\net8.0\refint\Atividade 50 - Fundamentos da Linguagem C#.dll
+D:\PROJETOS\Senai\Programa-o-C-\Atividade 50 - Fundamentos da Linguagem C#\obj\Debug\net8.0\Atividade 50 - Fundamentos da Linguagem C#.pdb
+D:\PROJETOS\Senai\Programa-o-C-\Atividade 50 - Fundamentos da Linguagem C#\obj\Debug\net8.0\Atividade 50 - Fundamentos da Linguagem C#.genruntimeconfig.cache
+D:\PROJETOS\Senai\Programa-o-C-\Atividade 50 - Fundamentos da Linguagem C#\obj\Debug\net8.0\ref\Atividade 50 - Fundamentos da Linguagem C#.dll
