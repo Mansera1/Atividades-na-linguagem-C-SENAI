@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Atividade 47 - Fundamentos da Linguagem C#")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+42df4c51078884858ef2a8945ec9109fcde9171d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1a2eb3c94ab72e01c108143e802dc3c9aaac10db")]
 [assembly: System.Reflection.AssemblyProductAttribute("Atividade 47 - Fundamentos da Linguagem C#")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Atividade 47 - Fundamentos da Linguagem C#")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
